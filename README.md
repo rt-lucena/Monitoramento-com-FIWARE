@@ -66,6 +66,6 @@ Este projeto é uma ótima demonstração de como integrar diferentes tecnologia
 
 ## Contato
 
-Para mais informações e tutoriais, assista ao vídeo completo em nosso canal do YouTube: [Seu Canal no YouTube](https://www.youtube.com/@Mindflayers-rk6wq)
+Para mais informações e tutoriais, assista ao vídeo completo em nosso canal do YouTube: [Mindflayers](https://www.youtube.com/@Mindflayers-rk6wq)
 
 Esperamos que este README seja útil para entender como configurar e utilizar o projeto de monitoramento e controle com ESP32, FIWARE e outras ferramentas.
