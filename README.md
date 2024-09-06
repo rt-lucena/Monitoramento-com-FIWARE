@@ -51,7 +51,7 @@ Este projeto demonstra como utilizar a plataforma FIWARE como back-end para uma 
    Configure as requisições no Postman para o controle do LED e a leitura da luminosidade. Envie comandos para ligar ou desligar o LED e receba informações do sensor de luminosidade em tempo real.
 
 9. **Utilizar o Simulador Wokwi**  
-   Acesse o [simulador Wokwi](https://wokwi.com/projects/381403531345819649) para visualizar o circuito do LED e do LDR em um ambiente virtual e realizar ajustes conforme necessário.
+   Acesse o [simulador Wokwi](https://wokwi.com/projects/408215648474161153) para visualizar o circuito do LED e do LDR em um ambiente virtual e realizar ajustes conforme necessário.
 
 ## Uso
 
